@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+.pnp/
+.pnp.js
+
+# Next.js / React
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
