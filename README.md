@@ -15,3 +15,12 @@ This repository will host the OLRT source code, documentation and installation p
 - `/search` – hybrid full-text + vector search components  
 - `/ui` – web interface (search bar, filters, conversational mode)  
 - `/examples` – demo queries and sample datasets  
+
+## Security
+
+If you discover a security vulnerability in this project, please refer to our
+[Security Policy](./SECURITY.md) for details on supported versions and how to
+responsibly report issues.
+
+We encourage the use of **GitHub private vulnerability reporting**.  
+Alternatively, you can contact us at **security@talent-innovation.cz**.
