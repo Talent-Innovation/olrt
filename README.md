@@ -8,3 +8,10 @@ This repository will host the OLRT source code, documentation and installation p
 
 ---
 🔗 More info: [https://nlnet.nl/commonsfund](https://nlnet.nl/commonsfund)
+
+## Planned structure
+- `/docs` – user and technical documentation  
+- `/etl` – data import and cleaning pipeline  
+- `/search` – hybrid full-text + vector search components  
+- `/ui` – web interface (search bar, filters, conversational mode)  
+- `/examples` – demo queries and sample datasets  
