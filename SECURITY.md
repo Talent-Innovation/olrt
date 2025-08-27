@@ -8,7 +8,7 @@ We triage and fix issues on the default branch (`main`) and the latest tagged re
 ## How to Report a Vulnerability
 
 - **Preferred:** Use GitHub “Private vulnerability reporting” or “Security advisories” on this repository.
-- **Alternative:** Email **[security-contact@your-domain.tld]** (replace with your address).
+- **Alternative:** Email **[daniel.cerveny@t-i.cz]** (replace with your address).
 - Optionally encrypt with our PGP key: **[PGP fingerprint or URL]**.
 
 Please include:
